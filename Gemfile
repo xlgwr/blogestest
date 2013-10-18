@@ -6,8 +6,12 @@ gem 'rails', '4.0.0'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 gem 'rspec-rails'
+gem 'guard-rspec'
 gem 'selenium-webdriver'
 gem 'capybara'
+gem 'spork-rails'
+gem 'guard-spork'
+gem 'childprocess'
 
 
 # Use SCSS for stylesheets
