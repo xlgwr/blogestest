@@ -15,7 +15,8 @@ gem 'capybara'
 gem 'spork-rails'
 gem 'guard-spork'
 gem 'childprocess'
-
+#gem 'factory_girl'
+#gem 'factory_girl_rails','4.2.1'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
