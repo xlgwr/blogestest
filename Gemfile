@@ -17,6 +17,9 @@ gem 'guard-spork'
 gem 'childprocess'
 #gem 'factory_girl'
 #gem 'factory_girl_rails','4.2.1'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
