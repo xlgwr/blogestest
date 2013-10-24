@@ -7,7 +7,7 @@
 	<%= gravatar_for @user %>
 	<%= @user.name %>
       </h1>
-      <p>Find me in app/views/users/new.html.erb</p>
+      <span><b>Microposts:</b> <%= @user.microposts.count %></span>
 
     </section>
     <section>
